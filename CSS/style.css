@@ -1,0 +1,24 @@
+#cajapadre{
+    display: flex;
+    width: 37.5rem;
+    height: 18.75rem;
+    background: gray;
+}
+#cajapadre > div{}
+
+#caja1{
+    background: blueviolet;
+    width: 300px;
+}
+#caja2{
+    background: lightcoral;
+    flex-grow: 1;
+}
+#caja3{
+    background: blueviolet;
+    flex-grow: 1;
+}
+#caja4{
+    background: lightcoral;
+    flex-grow: 1;
+}
